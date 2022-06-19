@@ -1,5 +1,7 @@
 # AdoptYourOwnPenguin
 
+<img src="/graphics/tux.png" alt="TUX" width="100"/>
+
 Wanna see the which distros there are or their download ranking?
 
 Go to [DistroWatch](https://distrowatch.com/)!
