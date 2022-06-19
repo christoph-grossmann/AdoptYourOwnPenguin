@@ -1,0 +1,30 @@
+\begin{frame}
+	\frametitle{Installing and updating software}
+	\subsection{Installing and updating software}
+	
+	\begin{columns}
+		\begin{column}{.45\linewidth}
+			\begin{block}{Debian/Ubuntu/Mint}
+				\begin{itemize}
+					\item Get all new updates \bash{apt update}
+					\item Install the updates \bash{apt upgrade}
+					\item Install a package \bash{apt install [package]}
+					\item Remove a package \bash{apt remove [package]}
+					\item Search for a package \bash{apt search [package]}
+				\end{itemize}
+			\end{block}
+		\end{column}
+		\hfill
+		\begin{column}{.45\linewidth}
+			\begin{block}{Arch/Manjaro}
+				\begin{itemize}
+					\item Get and install all updates \bash{pacman -Syu}
+					\item Install a package \bash{pacman -S [package]}
+					\item Remove a package \bash{pacman -R [package]}
+					\item Search for a package \bash{pacman -Ss [package]}
+					\item Clean cache files \bash{pacman -Scc}
+				\end{itemize}
+			\end{block}
+		\end{column}
+	\end{columns}
+\end{frame}
