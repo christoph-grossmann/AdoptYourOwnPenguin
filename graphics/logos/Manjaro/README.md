@@ -1,0 +1,1 @@
+See https://wiki.manjaro.org/index.php/File:Main_page_logo.png and https://wiki.manjaro.org/index.php?title=File:Manjaro-logo.png&mobileaction=toggle_view_desktop.
