@@ -1,0 +1,168 @@
+\documentclass[a4paper, 17pt]{beamer}
+
+\usepackage[sfdefault]{roboto}
+\usepackage[english]{babel}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{ragged2e}
+\usepackage{schemabloc}
+\usepackage[orientation=portrait]{beamerposter}
+
+% Define where theme files are located. ('/styles')
+\usepackage{../../flux-beamer-theme/styles/fluxmacros}
+\usefolder{../../flux-beamer-theme/styles}
+% Available style: asphalt, blue, red, green, gray 
+\usetheme[style=asphalt]{flux}
+
+\newcommand{\mascot}{../../graphics/tux.png}
+
+% Informations
+\title{Bash Cheat Sheet}
+\logo{\mascot}
+
+\definecolor{background-local}{named}{background}
+%\definecolor{Gray-local}{HTML}{858b8f}
+%\definecolor{text-local}{HTML}{4F5D66}
+%\definecolor{primaryLight-local}{HTML}{34495e}
+%\definecolor{primary-local}{HTML}{2d3e50}
+%\definecolor{secondary-local}{HTML}{d15306}
+%\definecolor{tertiary-local}{HTML}{35837b}
+
+\newcommand{\bash}[1]{> \textbf{#1}}
+\newcommand{\bcom}[2]{\bash{#1}&#2}
+
+\setbeamertemplate{title page}
+{
+\begin{columns}
+	\begin{column}{.3\linewidth}
+		\centering\includegraphics[height=3\baselineskip]{../../graphics/logos/Ubuntu/ubuntu-logo-2022.png}
+	\end{column}
+	\hfill
+	\begin{column}{.3\linewidth}
+		\centering\color{primaryLight}\Huge\textbf{\inserttitle}
+	\end{column}
+	\hfill
+	\begin{column}{.3\linewidth}
+		\centering\includegraphics[height=3\baselineskip]{\mascot}
+	\end{column}
+\end{columns}
+\begin{center}
+	\noindent\color{secondary}\rule{.8\linewidth}{6pt}
+\end{center}
+}
+
+\setbeamerfont*{projected text}{size=\normalsize}
+\setbeamerfont*{header title}{size=\Huge,series=\bfseries}
+\setbeamerfont*{header subtitle}{size=\normalsize}
+\setbeamerfont*{toc title}{size=\normalsize,series=\bfseries}
+\setbeamerfont*{toc subtitle}{size=\small}
+\setbeamerfont*{title}{size=\Huge,series=\bfseries}
+\setbeamerfont*{subtitle}{size=\Large,series=\bfseries}
+\setbeamerfont*{author}{size=\large,series=\normalfont}
+\setbeamerfont*{institute}{size=\large,series=\normalfont}
+\setbeamerfont*{date}{size=\scriptsize,series=\itshape}
+\setbeamerfont*{footnote}{size=\fontsize{6}{6}}
+\setbeamerfont*{bibliography entry author}{size=\normalsize,series=\normalfont}
+\setbeamerfont*{bibliography entry title}{size=\normalsize,series=\bfseries}
+\setbeamerfont*{bibliography entry location}{size=\small,series=\normalfont}
+\setbeamerfont*{bibliography entry note}{size=\small,series=\normalfont}
+\setbeamerfont*{block title}{size=\Large}
+\setbeamerfont*{block body}{size=\normalsize}
+\setbeamerfont*{block title example}{size=\Large}
+\setbeamerfont*{block body example}{size=\normalsize}
+\setbeamerfont*{block title alerted}{size=\Large}
+\setbeamerfont*{block body alerted}{size=\normalsize}
+
+\newcommand{\bashcolumnsize}{.3\linewidth}
+\newcommand{\desccolumnsize}{.65\linewidth}
+\newcommand\fixboxspacing{\vskip-2.5\baselineskip}
+
+\setbeamertemplate{block begin}
+{%
+\fixboxspacing
+\begin{beamercolorbox}[colsep*=2mm,leftskip=.5cm,ht=2\baselineskip,dp=1ex]{block title}
+	\usebeamerfont*{block title}\insertblocktitle%
+\end{beamercolorbox}%
+{\parskip0pt\par}%
+\ifbeamercolorempty[bg]{block title}
+{}
+{\ifbeamercolorempty[bg]{block body}{}{\nointerlineskip\vskip-0.5pt}}%
+\usebeamerfont{block body}%
+\begin{beamercolorbox}[colsep*=2mm,vmode]{block body}%
+}
+	
+\setbeamertemplate{block example begin}
+{
+\fixboxspacing
+\begin{beamercolorbox}[colsep*=2mm]{block title example}
+	\usebeamerfont*{block title example}\insertblocktitle%
+\end{beamercolorbox}%
+{\parskip0pt\par}%
+\ifbeamercolorempty[bg]{block title example}
+{}
+{\ifbeamercolorempty[bg]{block body example}{}{\nointerlineskip\vskip-0.5pt}}%
+\usebeamerfont{block body example}%
+\begin{beamercolorbox}[colsep*=2mm,vmode]{block body example}%
+}
+		
+\setbeamertemplate{block alerted begin}
+{
+\fixboxspacing
+\begin{beamercolorbox}[colsep*=2mm]{block title alerted}
+	\usebeamerfont*{block title alerted}\insertblocktitle%
+\end{beamercolorbox}%
+{\parskip0pt\par}%
+\ifbeamercolorempty[bg]{block title alerted}
+{}
+{\ifbeamercolorempty[bg]{block body alerted}{}{\nointerlineskip\vskip-0.5pt}}%
+\usebeamerfont{block body alerted}%
+\begin{beamercolorbox}[colsep*=2mm,vmode]{block body alerted}%
+}
+
+\setbeamertemplate{block end}{
+\end{beamercolorbox}
+}
+
+\begin{document}
+	\begin{frame}[plain]%
+		\titlepage
+		\vfill%
+		\begin{columns}%
+			\begin{column}[t]{0.5\linewidth}%
+				\include{blocks/general}%
+				\include{blocks/system}%
+				\include{blocks/hardware}%
+				\include{blocks/priviliges}%
+				\include{blocks/package}%
+				\include{blocks/directory}%
+				\include{blocks/file}%
+				\include{blocks/search}%
+			\end{column}
+			\begin{column}[t]{0.5\linewidth}
+				\include{blocks/sevices}%
+				\include{blocks/process}%
+				\include{blocks/network}%
+				\include{blocks/ssh}%
+				\include{blocks/firewall}%
+				\include{blocks/file_perm}%
+				\include{blocks/variables}%
+				\include{blocks/shortcuts}%
+			\end{column}
+		\end{columns}
+		\fixboxspacing
+		\vfill
+		\begin{center}
+			\noindent\color{secondary}\rule{.8\linewidth}{6pt}
+		\end{center}
+		\begin{center}
+			\begin{tabular}{p{.65\linewidth}r}
+				\url{https://github.com/christoph-grossmann/AdoptYourOwnPenguin} &
+				\href{http://creativecommons.org/licenses/by-sa/4.0/}{CC BY-SA 4.0}
+			\end{tabular}
+			\includegraphics[height=1\baselineskip]{../../graphics/cc-by-sa.png}
+		\end{center}
+	\end{frame}
+\end{document}
+
+%\bcom{}{}\\
