@@ -1,6 +1,6 @@
-<img src="/graphics/tux.png" alt="TUX" width="200" align="right"/>
-
 # \#AdoptYourOwnPenguin
+
+<img src="/graphics/tux.png" alt="TUX" width="200" align="right"/>
 
 Wanna see the which distros there are or their download ranking?
 
