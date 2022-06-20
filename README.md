@@ -1,6 +1,6 @@
-# AdoptYourOwnPenguin
+<img src="/graphics/tux.png" alt="TUX" width="200" align="right"/>
 
-<img src="/graphics/tux.png" alt="TUX" width="100"/>
+# \#AdoptYourOwnPenguin
 
 Wanna see the which distros there are or their download ranking?
 
@@ -9,6 +9,10 @@ Go to [DistroWatch](https://distrowatch.com/)!
 Wanna know which distro fits your needs?
 
 Go to [DistroChooser](https://distrochooser.de/)!
+
+## Presentation
+
+<a rel="presentation" href="/presentation/adoptyourownpenguin_presentation.pdf"><img alt="Link to presentation" style="border-width:0" src="/presentation/adoptyourownpenguin_presentation_titlepage.png" width="400" /></a>
 
 ## License
 
