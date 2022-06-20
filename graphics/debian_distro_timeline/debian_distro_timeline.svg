@@ -3,8 +3,8 @@
 
 <svg
    version="1.1"
-   width="2090"
-   height="1616"
+   width="1742"
+   height="1330"
    id="svg9411"
    sodipodi:docname="debian_distro_timeline.svg"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      showgrid="false"
-     inkscape:zoom="0.43141626"
-     inkscape:cx="1147.3837"
-     inkscape:cy="839.0968"
+     inkscape:zoom="0.30505736"
+     inkscape:cx="868.68908"
+     inkscape:cy="875.24522"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      inkscape:window-x="1920"
@@ -10152,48 +10152,7 @@
      inkscape:label="Connectors"
      inkscape:groupmode="layer"
      id="layer_connectors"
-     style="opacity:0.6">
-    <line
-       x1="1393"
-       y1="1083.2295"
-       x2="1963"
-       y2="1083.2295"
-       stroke="#48bd87"
-       stroke-width="2"
-       stroke-dasharray="2, 2"
-       marker-start="url(#__connector_22)"
-       id="line3664" />
-    <line
-       x1="1459"
-       y1="1264.2295"
-       x2="1677"
-       y2="1264.2295"
-       stroke="#0090c4"
-       stroke-width="4"
-       stroke-dasharray="4, 4"
-       marker-start="url(#__connector_26)"
-       id="line3672" />
-    <line
-       x1="647"
-       y1="887.22955"
-       x2="1239"
-       y2="887.22955"
-       stroke="#0169c9"
-       stroke-width="2"
-       stroke-dasharray="2, 2"
-       marker-start="url(#__connector_49)"
-       id="line3718" />
-    <line
-       x1="441"
-       y1="1493.2295"
-       x2="333"
-       y2="1493.2295"
-       stroke="#0087ed"
-       stroke-width="4"
-       stroke-dasharray="4, 4"
-       marker-start="url(#__connector_53)"
-       id="line3726" />
-  </g>
+     style="opacity:0.6" />
   <g
      inkscape:label="Lines"
      inkscape:groupmode="layer"
@@ -10201,585 +10160,446 @@
      style="fill:none;stroke-width:4">
     <path
        id="__line_Linux__Mint__Debian__Edition"
-       d="m 1743,705.22955 c 0,75 330,3 330,78 v 0 V 1614"
+       d="m 1440.9194,646.63727 c 0,75 284.0806,-4.40772 284.0806,70.59228 v 0 V 1328"
        stroke="#5fec52"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_TurnKey"
-       d="m 1745,816.66749 c 0,75 306,16.56206 306,91.56206 v 0 V 1614"
+       d="m 1440.9194,759.61477 c 0,75 262.0806,7.61478 262.0806,82.61478 v 0 V 1328"
        stroke="#d49773"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Xamin"
-       d="m 1745,880.91118 c 0,75.00002 284,-3.68163 284,71.31842 v 0 V 1614"
+       d="m 1441,814.50142 c 0,75.00002 240,-3.27187 240,71.72818 v 0 V 1328"
        stroke="#448bb8"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_LinuxBBQ"
-       d="m 1745,880.91118 c 0,75.00002 262,1.31837 262,76.31842 v 0 501"
-       stroke="#ffea3c"
-       style="stroke-width:4"
-       marker-end="url(#__stop_LinuxBBQ)"
-       sodipodi:nodetypes="cscc" />
-    <path
-       id="__line_Point__Linux"
-       d="m 1745,880.91118 c 0,75.00002 240,3.31837 240,78.31842 v 0 583.2704"
-       stroke="#9ccaeb"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Point__Linux)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_SparkyLinux"
-       d="m 1743,935.2296 c 0,75.0001 220,2 220,77 v 0 V 1614"
+       d="m 1440.9194,871.01507 c 0,75.00013 218.0806,0.21453 218.0806,75.21453 v 0 V 1328"
        stroke="#898483"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Rebellin"
-       d="m 1743,977.2296 c 0,75 198,-7 198,68 v 0 V 1614"
+       d="m 1439,911.2296 c 0,75 198,-7 198,68 v 0 V 1328"
        stroke="#31abea"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Volumio"
-       d="m 1743,1019.2296 c 0,75 176,-11 176,64 v 0 V 1614"
+       d="m 1439,953.2296 c 0,75 176,-11 176,64 v 0 V 1328"
        stroke="#48bd87"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_armbian"
-       d="m 1745,1038.2295 c 0,75 152,10e-5 152,75.0001 v 0 V 1614"
+       d="m 1441,972.2295 c 0,75 152,10e-5 152,75.0001 v 0 V 1328"
        stroke="#c7c7c7"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_MX__Linux"
-       d="m 1743,1059.2296 c 0,75 132,4 132,79 v 0 V 1614"
+       d="m 1439,993.2296 c 0,75 132,4 132,79 v 0 V 1328"
        stroke="#506e88"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Q4OS"
-       d="m 1743,1070.2296 c 0,75 110,25 110,100 v 0 V 1614"
+       d="m 1439,1004.2296 c 0,75 110,25 110,100 v 0 V 1328"
        stroke="#5f74c7"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Refracta"
-       d="m 1831,1207.2296 c 0,65.25 -22,21.75 -22,87 v 0 V 1614"
+       d="m 1527,1141.2296 c 0,65.25 -22,21.75 -22,87 v 0 V 1328"
        stroke="#4a3348"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Devuan"
-       d="m 1743,1107.2296 c 0,75 88,25 88,100 v 0 V 1614"
+       d="m 1439,1041.2296 c 0,75 88,25 88,100 v 0 V 1328"
        stroke="#424252"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_deepin"
-       d="m 1743,1215.2296 c 0,75 44,25 44,100 v 0 V 1614"
+       d="m 1441,1107.2296 c 0,75 44,25 44,100 v 0 V 1328"
        stroke="#15a7e5"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Parrot"
-       d="m 1743,1253.2296 c 0,75 22,25 22,100 v 0 V 1614"
+       d="m 1441,1145.2296 c 0,75 22,25 22,100 v 0 V 1328"
        stroke="#95b8c8"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Netrunner__"
-       d="m 1743,1297.2296 c 0,75 -22,25 -22,100 v 0 V 1614"
-       stroke="#5997de"
-       style="stroke-width:4"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_PrimTux"
-       d="m 1743,1242.2296 c 0,75 -44,25 -44,100 v 0 V 1614"
+       d="m 1441,1134.2296 c 0,75 -44,25 -44,100 v 0 V 1328"
        stroke="#4e6d8c"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_OSMC"
-       d="m 1743,1164.2296 c 0,75 -66,25 -66,100 v 0 V 1614"
+       d="m 1441,1056.2296 c 0,75 -66,25 -66,100 v 0 V 1328"
        stroke="#0090c4"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_SELKS"
-       d="m 1743,1095.2296 c 0,75 -88,25 -88,100 v 0 V 1614"
+       d="m 1439,1029.2296 c 0,75 -88,25 -88,100 v 0 V 1328"
        stroke="#761146"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Endless__OS"
-       d="m 1743,1059.2296 c 0,75 -110,25 -110,100 v 0 V 1614"
+       d="m 1439,993.2296 c 0,75 -110,25 -110,100 v 0 V 1328"
        stroke="#f26522"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_RoboLinux"
-       d="m 1743,1029.2296 c 0,75 -132,25 -132,100 v 0 V 1614"
+       d="m 1439,963.2296 c 0,75 -132,25 -132,100 v 0 V 1328"
        stroke="#7b7c7a"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_ToriOS"
-       d="m 1743,1019.2296 c 0,75 -154,25 -154,100 v 0 V 1614"
+       d="m 1439,953.2296 c 0,75 -154,25 -154,100 v 0 V 1328"
        stroke="#be0000"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Ye__Olde__SteamOSe"
-       d="m 1567,1088.2296 c 0,17.25 -22,5.75 -22,23 v 0 221"
-       stroke="#2e2e2e"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Ye__Olde__SteamOSe)"
-       sodipodi:nodetypes="cscc" />
-    <path
-       id="__line_SteamOS"
-       d="m 1743,988.2296 c 0,75 -176,25 -176,100 v 0 V 1614"
-       stroke="#b55afb"
-       style="stroke-width:4"
-       marker-end="url(#__stop_SteamOS)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_Rescatux"
-       d="m 1743,977.2296 c 0,75 -220,25 -220,100 v 0 V 1614"
+       d="m 1437,911.2296 c 0,75 -180,25 -180,100 v 0 V 1328"
        stroke="#ff6633"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Kali"
-       d="m 1743,935.2296 c 0,75 -242,25 -242,100 v 0 V 1614"
+       d="M 1438.9194,871.01507 C 1438.9194,946.0151 1235,894.2296 1235,969.2296 v 0 V 1328"
        stroke="#557c94"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Univention__Corporate__Server"
-       d="m 1743,910.22955 c 0,75.00005 -264,25.00005 -264,100.00005 v 0 V 1614"
+       d="m 1439,844.22955 c 0,75.00005 -226,25.00005 -226,100.00005 v 0 V 1328"
        stroke="#e51d3c"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Raspbmc"
-       d="m 1435,957.2296 c 0,50.25 22,16.75 22,67 v 0 240"
-       stroke="#0090c4"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Raspbmc)"
-       sodipodi:nodetypes="cscc" />
-    <path
-       id="__line_Raspyfi"
-       d="m 1435,957.2296 c 0,41.25 -44,13.75 -44,55 v 0 71"
-       stroke="#48bd87"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Raspyfi)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_Moode"
-       d="m 1435,1080.2296 c 0,75 -22,25 -22,100 v 0 V 1614"
+       d="m 1187,1014.2296 c 0,75 -22,25 -22,100 v 0 V 1328"
        stroke="#d35400"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Raspbian"
-       d="m 1743,857.22955 c 0,75.00005 -308,25 -308,100.00005 v 0 V 1614"
+       d="m 1439,796.93653 c 0,75.00005 -252,19.29302 -252,94.29307 v 0 V 1328"
        stroke="#c61931"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_YunoHost"
-       d="m 1743,857.22955 c 0,75.00005 -374,25 -374,100.00005 v 0 V 1614"
+       d="m 1438.9194,768.4613 c 0,75.00005 -291.9194,47.76825 -291.9194,122.7683 v 0 V 1328"
        stroke="#111111"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_SolusOS"
-       d="m 1743,850.22955 c 0,75.00005 -396,25 -396,100.00005 v 0 148"
-       stroke="#757a75"
-       style="stroke-width:4"
-       marker-end="url(#__stop_SolusOS)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_OpenMediaVault"
-       d="m 1743,795.22955 c 0,75 -418,25 -418,100 v 0 V 1614"
+       d="m 1438.9194,724.22955 c 0,75 -317.9194,30 -317.9194,105 v 0 V 1328"
        stroke="#75777a"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Progress"
-       d="m 1743,705.22955 c 0,75 -436,25 -436,100 v 0 V 1614"
+       d="m 1438.9194,646.63727 c 0,75 -335.9194,17.59228 -335.9194,92.59228 v 0 V 1328"
        stroke="#2455a4"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Semplice"
-       d="m 1745,617.9663 c 0,75 -462,15.26325 -462,90.26325 v 0 878.00005"
-       stroke="#290c6a"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Semplice)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_Tails"
-       d="m 1745,580.24743 c 0,75 -484,7.98212 -484,82.98212 v 0 V 1614"
+       d="m 1438.9194,509.1925 c 0,75 -349.9194,13.03705 -349.9194,88.03705 v 0 V 1328"
        stroke="#6e2daf"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Untangle"
-       d="m 1745,547.26808 c 0,75 -506,20.96147 -506,95.96147 v 0 V 1614"
+       d="m 1438.9194,477.10186 c 0,75 -371.9194,25.12769 -371.9194,100.12769 v 0 V 1328"
        stroke="#82c86a"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Inquisitor"
-       d="m 1744.9194,482.9777 c 0,75 -527.9194,13.25185 -527.9194,88.25185 v 0 425.00005"
-       stroke="#cc0000"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Inquisitor)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_Proxmox"
-       d="m 1744.9194,446.27835 c 0,75 -549.9194,22.9512 -549.9194,97.9512 v 0 V 1614"
+       d="m 1438.9194,392.95047 c 0,75 -391.9194,10.27908 -391.9194,85.27908 v 0 V 1328"
        stroke="#e36f1e"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_PelicanHPC"
-       d="m 1744.9194,434.18089 c 0,75 -571.9194,23.04866 -571.9194,98.04866 v 0 V 1614"
+       d="m 1438.9194,366.66318 c 0,75 -413.9194,24.56637 -413.9194,99.56637 v 0 V 1328"
        stroke="#a0553c"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Ulteo"
-       d="m 1107,394.22955 c 0,75 44,25 44,100 v 0 1056.00005"
-       stroke="#4fb75e"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Ulteo)"
-       sodipodi:nodetypes="cscc" />
-    <path
-       id="__line_Asturix"
-       d="m 1107,611.22955 c 0,75 22,25 22,100 v 0 393.00005"
-       stroke="#55cc00"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Asturix)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_Bardinux"
-       d="m 1107,353.22955 c 0,75 -66,25 -66,100 v 0 V 1614"
+       d="m 1007,468.95047 c 0,75 -46,5.27908 -46,80.27908 v 0 V 1328"
        stroke="#832c6a"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Netrunner"
-       d="m 1107,722.22955 c 0,75 -22,25 -22,100 v 0 661.00005"
-       stroke="#5997de"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Netrunner)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_DEFT"
-       d="m 1107,402.22955 c 0,75 -44,25 -44,100 v 0 V 1614"
+       d="m 1007,507.43904 c 0,75 -24,15.79051 -24,90.79051 v 0 V 1328"
        stroke="#555555"
        style="stroke-width:4"
        marker-end="url(#__stop_DEFT)"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Kubuntu"
-       d="m 333,302.46247 c 0,34.5 774,-8.73292 774,25.76708 v 0 V 1614"
+       d="m 332,323.87873 c 4.12882,72.7013 704.0894,-14.01667 675,100.35082 v 0 V 1328"
        stroke="#4f5695"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Runtu"
-       d="m 931,537.22955 c 0,75 66,25 66,100 v 0 V 1614"
+       d="m 869,547.22955 c 0,75 66,25 66,100 v 0 V 1328"
        stroke="#3c72ae"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Voyager"
-       d="m 931,895.22955 c 0,75.00005 44,25 44,100.00005 v 0 V 1614"
+       d="m 869,905.22955 c 0,75.00005 44,25.00005 44,100.00005 v 0 V 1328"
        stroke="#f55a1b"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_GalliumOS"
-       d="m 931,1247.2296 c 0,75 22,25 22,100 v 0 V 1614"
+       d="m 869,1115.2296 c 0,75 22,25 22,100 v 0 V 1328"
        stroke="#6cd6de"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_PC__OS"
-       d="m 931,528.22955 c 0,75 -66,25 -66,100 v 0 V 1614"
+       d="m 869,538.22955 c 0,75 -66,25 -66,100 v 0 V 1328"
        stroke="#000000"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Peach__OSI"
-       d="m 931,1103.2296 c 0,75 -22,25 -22,100 v 0 V 1614"
+       d="m 869,1009.2296 c 0,75 -22,25 -22,100 v 0 V 1328"
        stroke="#e64135"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Xinutop"
-       d="m 931,895.22955 c 0,75.00005 -44,25 -44,100.00005 v 0 V 1614"
+       d="m 869,905.22955 c 0,75.00005 -44,25.00005 -44,100.00005 v 0 V 1328"
        stroke="#002658"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Xubuntu"
-       d="m 333,313.4195 c 0,75 598,14.81005 598,89.81005 v 0 V 1614"
+       d="m 332,344.22955 c 0,75 537,-6 537,69 v 0 V 1328"
        stroke="#53525f"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_MAX__"
-       d="m 332,360.58933 c 0,75 511,-3.35978 511,71.64022 v 0 V 1614"
+       d="m 332,360.71557 c 0,75 449,6.51398 449,81.51398 v 0 V 1328"
        stroke="#477dbe"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Ubuntu__Studio"
-       d="m 332,386.62829 c 0,75 489,-10.39874 489,64.60126 v 0 V 1614"
+       d="m 332,382.89387 c 0,75 427,3.33568 427,78.33568 v 0 V 1328"
        stroke="#0099ee"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Ultimate__Edition"
-       d="m 332,448.30834 c 0,75 467,25.92121 467,100.92121 v 0 V 1614"
+       d="m 332.33624,408.39592 c 0,75 404.66376,25.83363 404.66376,100.83363 v 0 V 1328"
        stroke="#999999"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_MoonOS"
-       d="m 332,472.88478 c 0,75 445,26.34477 445,101.34477 v 0 541.00005"
-       stroke="#4cc334"
-       style="stroke-width:4"
-       marker-end="url(#__stop_MoonOS)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_eBox"
-       d="m 332,495.22955 c 0,75 423,25 423,100 v 0 V 1614"
+       d="m 332.33624,442.22955 c 0,75 360.66376,12 360.66376,87 v 0 V 1328"
        stroke="#f49d00"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Newtoos"
-       d="m 333,502.22955 c 0,75 400,25 400,100 v 0 430.00005"
-       stroke="#2b4083"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Newtoos)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_Vibuntu"
-       d="m 332.33624,508.22955 c 0,75 378.66376,25 378.66376,100 v 0 V 1614"
+       d="m 333,462.22955 c 0,75 316,5 316,80 v 0 V 1328"
        stroke="#bbbbbb"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Qimo"
-       d="m 333,528.22955 c 0,75 356,25 356,100 v 0 428.00005"
-       stroke="#1070c0"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Qimo)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_OSGeo-Live"
-       d="m 645,832.22955 c 0,75 22,25 22,100.00005 v 0 V 1614"
+       d="m 583,766.22955 c 0,75 22,25 22,100.00005 v 0 V 1328"
        stroke="#49a942"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Peppermint__OS"
-       d="m 645,646.22955 c 0,75 -44,25 -44,100 v 0 V 1614"
+       d="m 583,580.22955 c 0,75 -44,25 -44,100 v 0 V 1328"
        stroke="#ae000e"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_LXLE"
-       d="m 645,979.2296 c 0,75 -22,25 -22,100 v 0 V 1614"
+       d="m 583,913.2296 c 0,75 -22,25 -22,100 v 0 V 1328"
        stroke="#474747"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Lubuntu"
-       d="m 332,548.94797 c 0,75 313,20.28158 313,95.28158 v 0 V 1614"
+       d="m 332,506.02544 c 0,75 251,-2.79589 251,72.20411 v 0 V 1328"
        stroke="#0169c9"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_BackBox"
-       d="m 333,684.22955 c 0,75 242,25 242,100 v 0 V 1614"
+       d="m 332,522.04635 c 0,75 181,49.1832 181,124.1832 v 0 V 1328"
        stroke="#2e2e2e"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Pinguy__OS"
-       d="m 333,687.22955 c 0,75 220,25 220,100 v 0 V 1614"
+       d="m 332,550.11568 c 0,75 159,24.11387 159,99.11387 v 0 V 1328"
        stroke="#05a7fb"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_elementary__OS"
-       d="m 333,740.22955 c 0,75 198,25 198,100 v 0 V 1614"
+       d="m 333,611.22955 c 0,75 136,16 136,91 v 0 V 1328"
        stroke="#47a8e9"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Pear__OS"
-       d="m 333,777.22955 c 0,75 176,25 176,100 v 0 244.00005"
-       stroke="#777777"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Pear__OS)"
-       sodipodi:nodetypes="cscc" />
-    <path
-       id="__line_Descent__OS"
-       d="m 333,810.22955 c 0,75 154,25 154,100 v 0 519.00005"
-       stroke="#0066ff"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Descent__OS)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_Ubuntu-Pack"
-       d="m 333,863.22955 c 0,75.00005 132,25 132,100.00005 v 0 V 1614"
+       d="m 333,734.22955 c 0,75.00005 112,16 112,91.00005 v 0 V 1328"
        stroke="#83c225"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_Ubuntu__GNOME"
-       d="m 333,891.22955 c 0,75.00005 110,25.00005 110,100.00005 v 0 502"
-       stroke="#0087ed"
-       style="stroke-width:4"
-       marker-end="url(#__stop_Ubuntu__GNOME)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_Ubuntu__Kylin"
-       d="m 333,947.2296 c 0,75 88,25 88,100 v 0 V 1614"
+       d="m 333,809.2296 c 0,75 88,25 88,100 v 0 V 1328"
        stroke="#347dc4"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Ubuntu__MATE"
-       d="m 333,1124.2296 c 0,75 66,25 66,100 v 0 V 1614"
+       d="m 333,916.2296 c 0,75 66,25 66,100 v 0 V 1328"
        stroke="#93ae67"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_KDE__Neon"
-       d="m 333,1246.2296 c 0,75 44,25 44,100 v 0 V 1614"
+       d="m 333,988.2296 c 0,75 44,25 44,100 v 0 V 1328"
        stroke="#0ab23b"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Pop__OS"
-       d="m 333,1364.2296 c 0,75 22,25 22,100 v 0 V 1614"
+       d="m 333,1106.2296 c 0,75 22,25 22,100 v 0 V 1328"
        stroke="#48b9c7"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Budgie-Remix"
-       d="m 333,1247.2296 c 0,75 -22,25 -22,100 v 0 V 1614"
+       d="m 333,989.2296 c 0,75 -22,25 -22,100 v 0 V 1328"
        stroke="#404455"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Snakeoil__OS"
-       d="m 333,1231.2296 c 0,75 -44,25 -44,100 v 0 V 1614"
+       d="m 333,973.2296 c 0,75 -44,25 -44,100 v 0 V 1328"
        stroke="#ffcc00"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Ubuntu__Touch"
-       d="m 333,995.2296 c 0,75 -66,25 -66,100 v 0 V 1614"
+       d="m 333,857.2296 c 0,75 -66,25 -66,100 v 0 V 1328"
        stroke="#e95420"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Linux__Lite"
-       d="m 333,897.22955 c 0,75.00005 -88,25.00005 -88,100.00005 v 0 V 1614"
+       d="m 333,759.22955 c 0,75.00005 -88,25.00005 -88,100.00005 v 0 V 1328"
        stroke="#e8e8e8"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Santoku"
-       d="m 333,872.22955 c 0,75.00005 -110,25 -110,100.00005 v 0 V 1614"
+       d="m 333,734.22955 c 0,75.00005 -110,25 -110,100.00005 v 0 V 1328"
        stroke="#444254"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_TorBOX"
-       d="m 333,831.22955 c 0,75 -132,25 -132,100.00005 v 0 V 1614"
+       d="m 333,693.22955 c 0,75 -132,25 -132,100.00005 v 0 V 1328"
        stroke="#000000"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Linkat____"
-       d="m 333,805.22955 c 0,75 -154,25 -154,100 v 0 V 1614"
+       d="m 333,667.22955 c 0,75 -154,25 -154,100 v 0 V 1328"
        stroke="#fcbe32"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Sn0wL1nuX"
-       d="m 333,749.22955 c 0,75 -176,25 -176,100 v 0 V 1614"
+       d="m 333,611.22955 c 0,75 -176,25 -176,100 v 0 V 1328"
        stroke="#88aaaa"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Bodhi"
-       d="m 333,703.22955 c 0,75 -198,25 -198,100 v 0 V 1614"
+       d="m 333,565.22955 c 0,75 -198,25 -198,100 v 0 V 1328"
        stroke="#5b860a"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
-       id="__line_AV"
-       d="m 333,528.22955 c 0,75 -210,21 -210,96 v 0 V 1614"
-       stroke="#334466"
-       style="stroke-width:4"
-       marker-end="url(#__stop_AV)"
-       sodipodi:nodetypes="cscc" />
-    <path
        id="__line_CAINE"
-       d="m 332.33624,508.22955 c 0,75 -237.33624,14 -237.33624,89 v 0 V 1614"
+       d="m 332.33624,442.22955 c 0,75 -237.33624,14 -237.33624,89 v 0 V 1328"
        stroke="#f3a424"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Zorin__OS"
-       d="m 333,502.22955 c 0,75 -260,14 -260,89 v 0 V 1614"
+       d="m 333,436.22955 c 0,75 -260,14 -260,89 v 0 V 1328"
        stroke="#055aa0"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_CrunchBang__plus__plus"
-       d="m 41,1127.2296 c 0,75 -22,25 -22,100 v 0 V 1614"
+       d="m 41,1037.2296 c 0,75 -22,25 -22,100 v 0 V 1328"
        stroke="#333333"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_CrunchBang"
-       d="m 332,426.57223 c 0,75 -291,19.65732 -291,94.65732 v 0 V 1614"
+       d="m 332,360.57223 c 0,75 -291,19.65732 -291,94.65732 v 0 V 1328"
        stroke="#000000"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Greenie"
-       d="m 332,381.26427 c 0,75 -325,28.96528 -325,103.96528 v 0 V 1614"
+       d="m 332,315.26427 c 0,75 -325,28.96528 -325,103.96528 v 0 V 1328"
        stroke="#829b1a"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Ubuntu"
-       d="m 1744.9194,175.46741 c 0,75 -1412.9194,31.76214 -1412.9194,106.76214 v 0 V 1614"
+       d="M 1439.4205,143.852 C 1418.9248,281.11899 298.0212,165.98761 332,282.22955 v 0 V 1328"
        stroke="#e95420"
        style="stroke-width:4"
        sodipodi:nodetypes="cscc" />
     <path
        id="__line_Debian"
-       d="M 1744.9194,37.22955 V 1614"
+       d="M 1440.9194,37.22955 V 1328"
        stroke="#bf1238"
        style="stroke-width:3.32341"
        sodipodi:nodetypes="cc" />
@@ -10798,431 +10618,319 @@
        stroke="none" />
     <circle
        id="__dot_Linux__Mint__Debian__Edition"
-       cx="783.22955"
-       cy="-2073"
+       cx="717.22955"
+       cy="-1725"
        r="7"
        fill="#5fec52"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_TurnKey"
-       cx="908.22955"
-       cy="-2051"
+       cx="842.22955"
+       cy="-1703"
        r="7"
        fill="#d49773"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Xamin"
-       cx="952.22949"
-       cy="-2029"
+       cx="886.22949"
+       cy="-1681"
        r="7"
        fill="#448bb8"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_LinuxBBQ"
-       cx="957.22949"
-       cy="-2007"
-       r="7"
-       fill="#ffea3c"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
-       id="__dot_Point__Linux"
-       cx="959.22949"
-       cy="-2029"
-       r="7"
-       fill="#9ccaeb"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_SparkyLinux"
-       cx="1012.2295"
-       cy="-1963"
+       cx="946.22949"
+       cy="-1659"
        r="7"
        fill="#898483"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Rebellin"
-       cx="1045.2295"
-       cy="-1941"
+       cx="979.22949"
+       cy="-1637"
        r="7"
        fill="#31abea"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Volumio"
-       cx="1083.2295"
-       cy="-1919"
+       cx="1017.2295"
+       cy="-1615"
        r="7"
        fill="#48bd87"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_armbian"
-       cx="1113.2295"
-       cy="-1897"
+       cx="1047.2295"
+       cy="-1593"
        r="7"
        fill="#c7c7c7"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_MX__Linux"
-       cx="1138.2295"
-       cy="-1875"
+       cx="1072.2295"
+       cy="-1571"
        r="7"
        fill="#506e88"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Q4OS"
-       cx="1170.2295"
-       cy="-1853"
+       cx="1104.2295"
+       cy="-1549"
        r="7"
        fill="#5f74c7"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Refracta"
-       cx="1294.2295"
-       cy="-1809"
+       cx="1228.2295"
+       cy="-1505"
        r="7"
        fill="#4a3348"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Devuan"
-       cx="1207.2295"
-       cy="-1831"
+       cx="1141.2295"
+       cy="-1527"
        r="7"
        fill="#424252"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_deepin"
-       cx="1315.2295"
-       cy="-1787"
+       cx="1207.2295"
+       cy="-1485"
        r="7"
        fill="#15a7e5"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Parrot"
-       cx="1353.2295"
-       cy="-1765"
+       cx="1245.2295"
+       cy="-1463"
        r="7"
        fill="#95b8c8"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Netrunner__"
-       cx="1397.2295"
-       cy="-1721"
-       r="7"
-       fill="#5997de"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_PrimTux"
-       cx="1342.2295"
-       cy="-1699"
+       cx="1234.2295"
+       cy="-1397"
        r="7"
        fill="#4e6d8c"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_OSMC"
-       cx="1264.2295"
-       cy="-1677"
+       cx="1156.2295"
+       cy="-1375"
        r="7"
        fill="#0090c4"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_SELKS"
-       cx="1195.2295"
-       cy="-1655"
+       cx="1129.2295"
+       cy="-1351"
        r="7"
        fill="#761146"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Endless__OS"
-       cx="1159.2295"
-       cy="-1633"
+       cx="1093.2295"
+       cy="-1329"
        r="7"
        fill="#f26522"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_RoboLinux"
-       cx="1129.2295"
-       cy="-1611"
+       cx="1063.2295"
+       cy="-1307"
        r="7"
        fill="#7b7c7a"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_ToriOS"
-       cx="1119.2295"
-       cy="-1589"
+       cx="1053.2295"
+       cy="-1285"
        r="7"
        fill="#be0000"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Ye__Olde__SteamOSe"
-       cx="1111.2295"
-       cy="-1545"
-       r="7"
-       fill="#2e2e2e"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
-       cx="1137.2295"
-       cy="-1545"
-       r="5"
-       fill="#2e2e2e"
-       stroke="none"
-       id="circle4561"
-       transform="rotate(90)" />
-    <circle
-       id="__dot_SteamOS"
-       cx="1088.2295"
-       cy="-1567"
-       r="7"
-       fill="#b55afb"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_Rescatux"
-       cx="1077.2295"
-       cy="-1523"
+       cx="1011.2295"
+       cy="-1257"
        r="7"
        fill="#ff6633"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Kali"
-       cx="1035.2295"
-       cy="-1501"
+       cx="969.22949"
+       cy="-1235"
        r="7"
        fill="#557c94"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Univention__Corporate__Server"
-       cx="1010.2295"
-       cy="-1479"
+       cx="944.22949"
+       cy="-1213"
        r="7"
        fill="#e51d3c"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Raspbmc"
-       cx="1024.2295"
-       cy="-1457"
-       r="7"
-       fill="#0090c4"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
-       id="__dot_Raspyfi"
-       cx="1012.2295"
-       cy="-1391"
-       r="7"
-       fill="#48bd87"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_Moode"
-       cx="1180.2295"
-       cy="-1413"
+       cx="1114.2295"
+       cy="-1165"
        r="7"
        fill="#d35400"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Raspbian"
-       cx="957.22949"
-       cy="-1435"
+       cx="891.22949"
+       cy="-1187"
        r="7"
        fill="#c61931"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_YunoHost"
-       cx="957.22949"
-       cy="-1369"
+       cx="891.22949"
+       cy="-1147"
        r="7"
        fill="#111111"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_SolusOS"
-       cx="950.22949"
-       cy="-1347"
-       r="7"
-       fill="#757a75"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_OpenMediaVault"
-       cx="895.22955"
-       cy="-1325"
+       cx="829.22955"
+       cy="-1121"
        r="7"
        fill="#75777a"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Progress"
-       cx="805.22955"
-       cy="-1307"
+       cx="739.22955"
+       cy="-1103"
        r="7"
        fill="#2455a4"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Semplice"
-       cx="708.22955"
-       cy="-1283"
-       r="7"
-       fill="#290c6a"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_Tails"
-       cx="663.22955"
-       cy="-1261"
+       cx="597.22955"
+       cy="-1089"
        r="7"
        fill="#6e2daf"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Untangle"
-       cx="643.22955"
-       cy="-1239"
+       cx="577.22955"
+       cy="-1067"
        r="7"
        fill="#82c86a"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Inquisitor"
-       cx="571.22955"
-       cy="-1217"
-       r="7"
-       fill="#cc0000"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_Proxmox"
-       cx="544.22955"
-       cy="-1195"
+       cx="478.22955"
+       cy="-1047"
        r="7"
        fill="#e36f1e"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_PelicanHPC"
-       cx="532.22955"
-       cy="-1173"
+       cx="466.22955"
+       cy="-1025"
        r="7"
        fill="#a0553c"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Ulteo"
-       cx="494.22955"
-       cy="-1151"
-       r="7"
-       fill="#4fb75e"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
-       id="__dot_Asturix"
-       cx="711.22955"
-       cy="-1129"
-       r="7"
-       fill="#55cc00"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_Bardinux"
-       cx="453.22955"
-       cy="-1041"
+       cx="549.22955"
+       cy="-961"
        r="7"
        fill="#832c6a"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Netrunner"
-       cx="822.22955"
-       cy="-1085"
-       r="7"
-       fill="#5997de"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_DEFT"
-       cx="502.22955"
-       cy="-1063"
+       cx="598.22955"
+       cy="-983"
        r="7"
        fill="#555555"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Kubuntu"
-       cx="328.22955"
-       cy="-1107"
+       cx="424.22955"
+       cy="-1007"
        r="7"
        fill="#4f5695"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Runtu"
-       cx="637.22955"
-       cy="-997"
+       cx="647.22955"
+       cy="-935"
        r="7"
        fill="#3c72ae"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Voyager"
-       cx="995.22949"
-       cy="-975"
+       cx="1005.2295"
+       cy="-913"
        r="7"
        fill="#f55a1b"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_GalliumOS"
-       cx="1347.2295"
-       cy="-953"
+       cx="1215.2295"
+       cy="-891"
        r="7"
        fill="#6cd6de"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_PC__OS"
-       cx="628.22955"
-       cy="-865"
+       cx="638.22955"
+       cy="-803"
        r="7"
        fill="#000000"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       cx="1014.2295"
-       cy="-865"
+       cx="1024.2295"
+       cy="-803"
        r="5"
        fill="#000000"
        stroke="none"
        id="circle4614"
        transform="rotate(90)" />
     <circle
-       cx="1270.2295"
-       cy="-865"
+       cx="1176.2295"
+       cy="-803"
        r="5"
        fill="#000000"
        stroke="none"
@@ -11230,199 +10938,151 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Peach__OSI"
-       cx="1203.2295"
-       cy="-909"
+       cx="1109.2295"
+       cy="-847"
        r="7"
        fill="#e64135"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Xinutop"
-       cx="995.22949"
-       cy="-887"
+       cx="1005.2295"
+       cy="-825"
        r="7"
        fill="#002658"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Xubuntu"
-       cx="403.22955"
-       cy="-931"
+       cx="413.22955"
+       cy="-869"
        r="7"
        fill="#53525f"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_MAX__"
-       cx="432.22955"
-       cy="-843"
+       cx="442.22955"
+       cy="-781"
        r="7"
        fill="#477dbe"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Ubuntu__Studio"
-       cx="451.22955"
-       cy="-821"
+       cx="461.22955"
+       cy="-759"
        r="7"
        fill="#0099ee"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Ultimate__Edition"
-       cx="549.22955"
-       cy="-799"
+       cx="509.22955"
+       cy="-737"
        r="7"
        fill="#999999"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_MoonOS"
-       cx="574.22955"
-       cy="-777"
-       r="7"
-       fill="#4cc334"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_eBox"
-       cx="595.22955"
-       cy="-755"
+       cx="529.22955"
+       cy="-693"
        r="7"
        fill="#f49d00"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       cx="782.22955"
-       cy="-755"
+       cx="716.22955"
+       cy="-693"
        r="5"
        fill="#f49d00"
        stroke="none"
        id="circle4650"
        transform="rotate(90)" />
     <circle
-       id="__dot_Newtoos"
-       cx="602.22955"
-       cy="-733"
-       r="7"
-       fill="#2b4083"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_Vibuntu"
-       cx="608.22955"
-       cy="-711"
+       cx="542.22955"
+       cy="-649"
        r="7"
        fill="#bbbbbb"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       cx="610.22955"
-       cy="-711"
+       cx="544.22955"
+       cy="-649"
        r="5"
        fill="#bbbbbb"
        stroke="none"
        id="circle4654"
        transform="rotate(90)" />
     <circle
-       id="__dot_Qimo"
-       cx="628.22955"
-       cy="-689"
-       r="7"
-       fill="#1070c0"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_OSGeo-Live"
-       cx="932.22961"
-       cy="-667"
+       cx="866.22961"
+       cy="-605"
        r="7"
        fill="#49a942"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Peppermint__OS"
-       cx="746.22955"
-       cy="-601"
+       cx="680.22955"
+       cy="-539"
        r="7"
        fill="#ae000e"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_LXLE"
-       cx="1079.2295"
-       cy="-623"
+       cx="1013.2295"
+       cy="-561"
        r="7"
        fill="#474747"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Lubuntu"
-       cx="644.22955"
-       cy="-645"
+       cx="578.22955"
+       cy="-583"
        r="7"
        fill="#0169c9"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_BackBox"
-       cx="784.22955"
-       cy="-575"
+       cx="646.22955"
+       cy="-513"
        r="7"
        fill="#2e2e2e"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_Pinguy__OS"
-       cx="787.22955"
-       cy="-553"
+       cx="649.22955"
+       cy="-491"
        r="7"
        fill="#05a7fb"
        stroke="none"
        transform="rotate(90)" />
     <circle
        id="__dot_elementary__OS"
-       cx="840.22955"
-       cy="-531"
+       cx="702.22955"
+       cy="-469"
        r="7"
        fill="#47a8e9"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Pear__OS"
-       cx="877.22955"
-       cy="-509"
-       r="7"
-       fill="#777777"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
-       id="__dot_Descent__OS"
-       cx="910.22955"
-       cy="-487"
-       r="7"
-       fill="#0066ff"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_Ubuntu-Pack"
-       cx="963.22949"
-       cy="-465"
+       cx="825.22949"
+       cy="-445"
        r="7"
        fill="#83c225"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_Ubuntu__GNOME"
-       cx="991.22949"
-       cy="-443"
-       r="7"
-       fill="#0087ed"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
        id="__dot_Ubuntu__Kylin"
-       cx="1047.2295"
+       cx="909.22949"
        cy="-421"
        r="7"
        fill="#347dc4"
@@ -11430,7 +11090,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Ubuntu__MATE"
-       cx="1224.2295"
+       cx="1016.2295"
        cy="-399"
        r="7"
        fill="#93ae67"
@@ -11438,7 +11098,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_KDE__Neon"
-       cx="1346.2295"
+       cx="1088.2295"
        cy="-377"
        r="7"
        fill="#0ab23b"
@@ -11446,7 +11106,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Pop__OS"
-       cx="1464.2295"
+       cx="1206.2295"
        cy="-355"
        r="7"
        fill="#48b9c7"
@@ -11454,14 +11114,14 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Budgie-Remix"
-       cx="1347.2295"
+       cx="1089.2295"
        cy="-311"
        r="7"
        fill="#404455"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       cx="1444.2295"
+       cx="1186.2295"
        cy="-311"
        r="5"
        fill="#404455"
@@ -11470,7 +11130,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Snakeoil__OS"
-       cx="1331.2295"
+       cx="1073.2295"
        cy="-289"
        r="7"
        fill="#ffcc00"
@@ -11478,7 +11138,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Ubuntu__Touch"
-       cx="1095.2295"
+       cx="957.22949"
        cy="-267"
        r="7"
        fill="#e95420"
@@ -11486,7 +11146,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Linux__Lite"
-       cx="997.22949"
+       cx="859.22949"
        cy="-245"
        r="7"
        fill="#e8e8e8"
@@ -11494,7 +11154,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Santoku"
-       cx="972.22949"
+       cx="834.22949"
        cy="-223"
        r="7"
        fill="#444254"
@@ -11502,14 +11162,14 @@
        transform="rotate(90)" />
     <circle
        id="__dot_TorBOX"
-       cx="931.22961"
+       cx="793.22961"
        cy="-201"
        r="7"
        fill="#000000"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       cx="982.22949"
+       cx="844.22949"
        cy="-201"
        r="5"
        fill="#000000"
@@ -11518,7 +11178,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Linkat____"
-       cx="905.22955"
+       cx="767.22955"
        cy="-179"
        r="7"
        fill="#fcbe32"
@@ -11526,14 +11186,14 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Sn0wL1nuX"
-       cx="849.22955"
+       cx="711.22955"
        cy="-157"
        r="7"
        fill="#88aaaa"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       cx="901.22955"
+       cx="763.22955"
        cy="-157"
        r="5"
        fill="#88aaaa"
@@ -11542,30 +11202,14 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Bodhi"
-       cx="803.22955"
+       cx="665.22955"
        cy="-135"
        r="7"
        fill="#5b860a"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       id="__dot_AV"
-       cx="624.22955"
-       cy="-123"
-       r="7"
-       fill="#334466"
-       stroke="none"
-       transform="rotate(90)" />
-    <circle
-       cx="650.22955"
-       cy="-123"
-       r="5"
-       fill="#334466"
-       stroke="none"
-       id="circle4702"
-       transform="rotate(90)" />
-    <circle
-       cx="785.22955"
+       cx="719.22955"
        cy="-101"
        r="5"
        fill="#4c4c4c"
@@ -11574,7 +11218,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_CAINE"
-       cx="597.22955"
+       cx="531.22955"
        cy="-95"
        r="7"
        fill="#f3a424"
@@ -11582,7 +11226,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Zorin__OS"
-       cx="591.22955"
+       cx="525.22955"
        cy="-73"
        r="7"
        fill="#055aa0"
@@ -11590,7 +11234,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_CrunchBang__plus__plus"
-       cx="1227.2295"
+       cx="1137.2295"
        cy="-19"
        r="7"
        fill="#333333"
@@ -11598,14 +11242,14 @@
        transform="rotate(90)" />
     <circle
        id="__dot_CrunchBang"
-       cx="521.22955"
+       cx="455.22955"
        cy="-41"
        r="7"
        fill="#000000"
        stroke="none"
        transform="rotate(90)" />
     <circle
-       cx="1228.2295"
+       cx="1138.2295"
        cy="-41"
        r="5"
        fill="#000000"
@@ -11614,7 +11258,7 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Greenie"
-       cx="485.22955"
+       cx="419.22955"
        cy="-7"
        r="7"
        fill="#829b1a"
@@ -11622,8 +11266,8 @@
        transform="rotate(90)" />
     <circle
        id="__dot_Ubuntu"
-       cx="87.710098"
-       cy="-946.20599"
+       cx="280.22955"
+       cy="-332"
        r="7"
        fill="#e95420"
        stroke="none"
@@ -11631,7 +11275,7 @@
     <circle
        id="__dot_Debian"
        cx="37.229549"
-       cy="-1743"
+       cy="-1439"
        r="7"
        fill="#bf1238"
        stroke="none"
@@ -11642,7 +11286,7 @@
      inkscape:groupmode="layer"
      id="layer_icons">
     <g
-       transform="translate(1620.9641,-190)"
+       transform="translate(1316.9641,-190)"
        id="g5195">
       <g
          id="debian"
@@ -11691,7 +11335,7 @@
              d="m 17.747,29.282 c 0.468,-1.434 0.55,-2.297 0.73,-3.129 -1.293,1.652 -0.594,2.004 -0.73,3.129" />
           <polygon
              id="polygon6132"
-             points="63.098,107.696 66.934,111.532 63.098,115.368 59.262,111.532 " />
+             points="63.098,115.368 59.262,111.532 63.098,107.696 66.934,111.532 " />
         </g>
         <g
            id="debian_name"
@@ -11724,8 +11368,8 @@
      id="layer_labels"
      style="font-size:14px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none">
     <rect
-       x="788.22955"
-       y="-2090"
+       x="722.22955"
+       y="-1742"
        width="172"
        height="14"
        fill="#ffffff"
@@ -11737,15 +11381,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/l/linux-mint-debian-edition"
        id="a5760"
-       transform="rotate(90,2532.8852,1439.1148)">
+       transform="rotate(90,2391.8852,1232.1148)">
       <text
          x="1884"
          y="1894"
          id="text5758">Linux Mint Debian Edition</text>
     </a>
     <rect
-       x="913.22955"
-       y="-2068"
+       x="847.22955"
+       y="-1720"
        width="55"
        height="14"
        fill="#ffffff"
@@ -11757,15 +11401,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/t/turnkey"
        id="a5784"
-       transform="rotate(90,2565.8852,1472.1148)">
+       transform="rotate(90,2424.8852,1265.1148)">
       <text
          x="2009"
          y="1982"
          id="text5782">TurnKey</text>
     </a>
     <rect
-       x="957.22949"
-       y="-2046"
+       x="891.22949"
+       y="-1698"
        width="42"
        height="14"
        fill="#ffffff"
@@ -11777,55 +11421,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/x/xamin"
        id="a5790"
-       transform="rotate(90,2565.8852,1472.1148)">
+       transform="rotate(90,2424.8852,1265.1148)">
       <text
          x="2053"
          y="2004"
          id="text5788">Xamin</text>
     </a>
     <rect
-       x="962.22949"
-       y="-2024"
-       width="66"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect5792"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/l/linuxbbq"
-       id="a5796"
-       transform="rotate(90,2565.8852,1472.1148)">
-      <text
-         x="2058"
-         y="2026"
-         id="text5794">LinuxBBQ</text>
-    </a>
-    <rect
-       x="964.22949"
-       y="-2002"
-       width="74"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect5798"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/p/point"
-       id="a5802"
-       transform="rotate(90,2565.8852,1472.1148)">
-      <text
-         x="2060"
-         y="2048"
-         id="text5800">Point Linux</text>
-    </a>
-    <rect
-       x="1017.2295"
-       y="-1980"
+       x="951.22949"
+       y="-1676"
        width="82"
        height="14"
        fill="#ffffff"
@@ -11837,15 +11441,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/s/sparky"
        id="a5808"
-       transform="rotate(90,2565.8852,1472.1148)">
+       transform="rotate(90,2446.8852,1287.1148)">
       <text
          x="2113"
          y="2070"
          id="text5806">SparkyLinux</text>
     </a>
     <rect
-       x="1050.2295"
-       y="-1958"
+       x="984.22949"
+       y="-1654"
        width="55"
        height="14"
        fill="#ffffff"
@@ -11857,15 +11461,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/r/rebellin"
        id="a5814"
-       transform="rotate(90,2565.8852,1472.1148)">
+       transform="rotate(90,2446.8852,1287.1148)">
       <text
          x="2146"
          y="2092"
          id="text5812">Rebellin</text>
     </a>
     <rect
-       x="1088.2295"
-       y="-1936"
+       x="1022.2295"
+       y="-1632"
        width="54"
        height="14"
        fill="#ffffff"
@@ -11877,15 +11481,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/v/volumio"
        id="a5820"
-       transform="rotate(90,2565.8852,1472.1148)">
+       transform="rotate(90,2446.8852,1287.1148)">
       <text
          x="2184"
          y="2114"
          id="text5818">Volumio</text>
     </a>
     <rect
-       x="1118.2295"
-       y="-1914"
+       x="1052.2295"
+       y="-1610"
        width="54"
        height="14"
        fill="#ffffff"
@@ -11897,15 +11501,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/a/armbian"
        id="a5826"
-       transform="rotate(90,2565.8852,1472.1148)">
+       transform="rotate(90,2446.8852,1287.1148)">
       <text
          x="2214"
          y="2136"
          id="text5824">armbian</text>
     </a>
     <rect
-       x="1143.2295"
-       y="-1892"
+       x="1077.2295"
+       y="-1588"
        width="62"
        height="14"
        fill="#ffffff"
@@ -11917,15 +11521,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/m/mx-linux"
        id="a5844"
-       transform="rotate(90,2576.8852,1483.1148)">
+       transform="rotate(90,2457.8852,1298.1148)">
       <text
          x="2239"
          y="2180"
          id="text5842">MX Linux</text>
     </a>
     <rect
-       x="1175.2295"
-       y="-1870"
+       x="1109.2295"
+       y="-1566"
        width="39"
        height="14"
        fill="#ffffff"
@@ -11937,15 +11541,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/q/q4os"
        id="a5850"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2468.8852,1309.1148)">
       <text
          x="2271"
          y="2224"
          id="text5848">Q4OS</text>
     </a>
     <rect
-       x="1299.2295"
-       y="-1826"
+       x="1233.2295"
+       y="-1522"
        width="55"
        height="14"
        fill="#ffffff"
@@ -11957,15 +11561,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/r/refracta"
        id="a5856"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2468.8852,1309.1148)">
       <text
          x="2395"
          y="2268"
          id="text5854">Refracta</text>
     </a>
     <rect
-       x="1212.2295"
-       y="-1848"
+       x="1146.2295"
+       y="-1544"
        width="51"
        height="14"
        fill="#ffffff"
@@ -11977,15 +11581,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/d/devuan"
        id="a5862"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2468.8852,1309.1148)">
       <text
          x="2308"
          y="2246"
          id="text5860">Devuan</text>
     </a>
     <rect
-       x="1320.2295"
-       y="-1804"
+       x="1212.2295"
+       y="-1502"
        width="45"
        height="14"
        fill="#ffffff"
@@ -11997,15 +11601,15 @@
     <a
        xlink:href=""
        id="a5868"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2490.8852,1289.1148)">
       <text
          x="2416"
          y="2290"
          id="text5866">deepin</text>
     </a>
     <rect
-       x="1358.2295"
-       y="-1782"
+       x="1250.2295"
+       y="-1480"
        width="40"
        height="14"
        fill="#ffffff"
@@ -12017,35 +11621,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/parrot"
        id="a5874"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2490.8852,1289.1148)">
       <text
          x="2454"
          y="2312"
          id="text5872">Parrot</text>
     </a>
     <rect
-       x="1402.2295"
-       y="-1738"
-       width="71"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect5888"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/n/netrunner"
-       id="a5892"
-       transform="rotate(90,2587.8852,1494.1148)">
-      <text
-         x="2498"
-         y="2356"
-         id="text5890">Netrunner</text>
-    </a>
-    <rect
-       x="1347.2295"
-       y="-1716"
+       x="1239.2295"
+       y="-1414"
        width="54"
        height="14"
        fill="#ffffff"
@@ -12057,15 +11641,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/primtux"
        id="a5898"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2490.8852,1289.1148)">
       <text
          x="2443"
          y="2378"
          id="text5896">PrimTux</text>
     </a>
     <rect
-       x="1269.2295"
-       y="-1694"
+       x="1161.2295"
+       y="-1392"
        width="42"
        height="14"
        fill="#ffffff"
@@ -12077,15 +11661,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/o/osmc"
        id="a5904"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2490.8852,1289.1148)">
       <text
          x="2365"
          y="2400"
          id="text5902">OSMC</text>
     </a>
     <rect
-       x="1200.2295"
-       y="-1672"
+       x="1134.2295"
+       y="-1368"
        width="47"
        height="14"
        fill="#ffffff"
@@ -12097,15 +11681,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/s/selks"
        id="a5910"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2468.8852,1309.1148)">
       <text
          x="2296"
          y="2422"
          id="text5908">SELKS</text>
     </a>
     <rect
-       x="1164.2295"
-       y="-1650"
+       x="1098.2295"
+       y="-1346"
        width="78"
        height="14"
        fill="#ffffff"
@@ -12117,15 +11701,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/e/endless-os"
        id="a5916"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2468.8852,1309.1148)">
       <text
          x="2260"
          y="2444"
          id="text5914">Endless OS</text>
     </a>
     <rect
-       x="1134.2295"
-       y="-1628"
+       x="1068.2295"
+       y="-1324"
        width="71"
        height="14"
        fill="#ffffff"
@@ -12137,15 +11721,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/r/robolinux"
        id="a5922"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2468.8852,1309.1148)">
       <text
          x="2230"
          y="2466"
          id="text5920">RoboLinux</text>
     </a>
     <rect
-       x="1124.2295"
-       y="-1606"
+       x="1058.2295"
+       y="-1302"
        width="46"
        height="14"
        fill="#ffffff"
@@ -12157,75 +11741,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/t/torios"
        id="a5928"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2468.8852,1309.1148)">
       <text
          x="2220"
          y="2488"
          id="text5926">ToriOS</text>
     </a>
     <rect
-       x="1116.2295"
-       y="-1562"
-       width="129"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect5930"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/stephensons-rocket"
-       id="a5934"
-       transform="rotate(90,2587.8852,1494.1148)">
-      <text
-         x="2212"
-         y="2532"
-         id="text5932">Ye Olde SteamOSe</text>
-    </a>
-    <rect
-       x="1253.2295"
-       y="-1562"
-       width="141"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect5936"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/s/stephensons-rocket"
-       id="a5940"
-       transform="rotate(90,2587.8852,1494.1148)">
-      <text
-         x="2349"
-         y="2532"
-         id="text5938">Stephenson's Rocket</text>
-    </a>
-    <rect
-       x="1093.2295"
-       y="-1584"
-       width="62"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect5942"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/s/steamos"
-       id="a5946"
-       transform="rotate(90,2587.8852,1494.1148)">
-      <text
-         x="2189"
-         y="2510"
-         id="text5944">SteamOS</text>
-    </a>
-    <rect
-       x="1082.2295"
-       y="-1540"
+       x="1016.2295"
+       y="-1274"
        width="61"
        height="14"
        fill="#ffffff"
@@ -12237,15 +11761,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/r/rescatux"
        id="a5952"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2487.8852,1328.1148)">
       <text
          x="2178"
          y="2554"
          id="text5950">Rescatux</text>
     </a>
     <rect
-       x="1040.2295"
-       y="-1518"
+       x="974.22949"
+       y="-1252"
        width="25"
        height="14"
        fill="#ffffff"
@@ -12257,15 +11781,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/k/kali"
        id="a5958"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2487.8852,1328.1148)">
       <text
          x="2136"
          y="2576"
          id="text5956">Kali</text>
     </a>
     <rect
-       x="1015.2295"
-       y="-1496"
+       x="949.22949"
+       y="-1230"
        width="191"
        height="14"
        fill="#ffffff"
@@ -12277,55 +11801,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/u/univention"
        id="a5964"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2487.8852,1328.1148)">
       <text
          x="2111"
          y="2598"
          id="text5962">Univention Corporate Server</text>
     </a>
     <rect
-       x="1029.2295"
-       y="-1474"
-       width="62"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect5966"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/o/osmc"
-       id="a5970"
-       transform="rotate(90,2587.8852,1494.1148)">
-      <text
-         x="2125"
-         y="2620"
-         id="text5968">Raspbmc</text>
-    </a>
-    <rect
-       x="1017.2295"
-       y="-1408"
-       width="49"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect5972"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/v/volumio"
-       id="a5976"
-       transform="rotate(90,2587.8852,1494.1148)">
-      <text
-         x="2113"
-         y="2686"
-         id="text5974">Raspyfi</text>
-    </a>
-    <rect
-       x="1185.2295"
-       y="-1430"
+       x="1119.2295"
+       y="-1182"
        width="45"
        height="14"
        fill="#ffffff"
@@ -12337,15 +11821,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/m/moode"
        id="a5982"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2496.8852,1337.1148)">
       <text
          x="2281"
          y="2664"
          id="text5980">Moode</text>
     </a>
     <rect
-       x="962.22949"
-       y="-1452"
+       x="896.22949"
+       y="-1204"
        width="63"
        height="14"
        fill="#ffffff"
@@ -12357,15 +11841,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/r/raspberry-pi-os"
        id="a5988"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2496.8852,1337.1148)">
       <text
          x="2058"
          y="2642"
          id="text5986">Raspbian</text>
     </a>
     <rect
-       x="962.22949"
-       y="-1386"
+       x="896.22949"
+       y="-1164"
        width="65"
        height="14"
        fill="#ffffff"
@@ -12377,35 +11861,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/y/yunohost"
        id="a6000"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2509.8852,1350.1148)">
       <text
          x="2058"
          y="2708"
          id="text5998">YunoHost</text>
     </a>
     <rect
-       x="955.22949"
-       y="-1364"
-       width="57"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6002"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/s/solusos"
-       id="a6006"
-       transform="rotate(90,2587.8852,1494.1148)">
-      <text
-         x="2051"
-         y="2730"
-         id="text6004">SolusOS</text>
-    </a>
-    <rect
-       x="900.22955"
-       y="-1342"
+       x="834.22955"
+       y="-1138"
        width="110"
        height="14"
        fill="#ffffff"
@@ -12417,15 +11881,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/o/openmediavault"
        id="a6012"
-       transform="rotate(90,2587.8852,1494.1148)">
+       transform="rotate(90,2518.8852,1359.1148)">
       <text
          x="1996"
          y="2752"
          id="text6010">OpenMediaVault</text>
     </a>
     <rect
-       x="810.22955"
-       y="-1324"
+       x="744.22955"
+       y="-1120"
        width="59"
        height="14"
        fill="#ffffff"
@@ -12437,35 +11901,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/progress"
        id="a6030"
-       transform="rotate(90,2611.8852,1518.1148)">
+       transform="rotate(90,2542.8852,1383.1148)">
       <text
          x="1906"
          y="2818"
          id="text6028">Progress</text>
     </a>
     <rect
-       x="713.22955"
-       y="-1300"
-       width="61"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6038"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/s/semplice"
-       id="a6042"
-       transform="rotate(90,2621.8852,1528.1148)">
-      <text
-         x="1809"
-         y="2862"
-         id="text6040">Semplice</text>
-    </a>
-    <rect
-       x="668.22955"
-       y="-1278"
+       x="602.22955"
+       y="-1106"
        width="31"
        height="14"
        fill="#ffffff"
@@ -12477,15 +11921,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/t/tails"
        id="a6048"
-       transform="rotate(90,2621.8852,1528.1148)">
+       transform="rotate(90,2568.8852,1409.1148)">
       <text
          x="1764"
          y="2884"
          id="text6046">Tails</text>
     </a>
     <rect
-       x="648.22955"
-       y="-1256"
+       x="582.22955"
+       y="-1084"
        width="60"
        height="14"
        fill="#ffffff"
@@ -12497,35 +11941,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/u/untangle"
        id="a6054"
-       transform="rotate(90,2621.8852,1528.1148)">
+       transform="rotate(90,2568.8852,1409.1148)">
       <text
          x="1744"
          y="2906"
          id="text6052">Untangle</text>
     </a>
     <rect
-       x="576.22955"
-       y="-1234"
-       width="60"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6056"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/i/inquisitor"
-       id="a6060"
-       transform="rotate(90,2621.8852,1528.1148)">
-      <text
-         x="1672"
-         y="2928"
-         id="text6058">Inquisitor</text>
-    </a>
-    <rect
-       x="549.22955"
-       y="-1212"
+       x="483.22955"
+       y="-1064"
        width="58"
        height="14"
        fill="#ffffff"
@@ -12537,15 +11961,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/proxmox"
        id="a6066"
-       transform="rotate(90,2621.8852,1528.1148)">
+       transform="rotate(90,2580.8852,1421.1148)">
       <text
          x="1645"
          y="2950"
          id="text6064">Proxmox</text>
     </a>
     <rect
-       x="537.22955"
-       y="-1190"
+       x="471.22955"
+       y="-1042"
        width="80"
        height="14"
        fill="#ffffff"
@@ -12557,55 +11981,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/pelicanhpc"
        id="a6072"
-       transform="rotate(90,2621.8852,1528.1148)">
+       transform="rotate(90,2580.8852,1421.1148)">
       <text
          x="1633"
          y="2972"
          id="text6070">PelicanHPC</text>
     </a>
     <rect
-       x="499.22955"
-       y="-1168"
-       width="34"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6158"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/u/ulteo"
-       id="a6162"
-       transform="rotate(90,2699.8852,1692.1148)">
-      <text
-         x="1509"
-         y="3236"
-         id="text6160">Ulteo</text>
-    </a>
-    <rect
-       x="716.22955"
-       y="-1146"
-       width="45"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6164"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/a/asturix"
-       id="a6168"
-       transform="rotate(90,2699.8852,1692.1148)">
-      <text
-         x="1726"
-         y="3258"
-         id="text6166">Asturix</text>
-    </a>
-    <rect
-       x="458.22955"
-       y="-1058"
+       x="554.22955"
+       y="-978"
        width="59"
        height="14"
        fill="#ffffff"
@@ -12617,35 +12001,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/b/bardinux"
        id="a6174"
-       transform="rotate(90,2699.8852,1692.1148)">
+       transform="rotate(90,2611.8852,1700.1148)">
       <text
          x="1468"
          y="3346"
          id="text6172">Bardinux</text>
     </a>
     <rect
-       x="827.22955"
-       y="-1102"
-       width="66"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6176"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/n/netrunner"
-       id="a6180"
-       transform="rotate(90,2699.8852,1692.1148)">
-      <text
-         x="1837"
-         y="3302"
-         id="text6178">Netrunner</text>
-    </a>
-    <rect
-       x="507.22955"
-       y="-1080"
+       x="603.22955"
+       y="-1000"
        width="37"
        height="14"
        fill="#ffffff"
@@ -12657,15 +12021,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/d/deft"
        id="a6186"
-       transform="rotate(90,2699.8852,1692.1148)">
+       transform="rotate(90,2611.8852,1700.1148)">
       <text
          x="1517"
          y="3324"
          id="text6184">DEFT</text>
     </a>
     <rect
-       x="333.22955"
-       y="-1124"
+       x="429.22955"
+       y="-1024"
        width="55"
        height="14"
        fill="#ffffff"
@@ -12677,15 +12041,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/k/kubuntu"
        id="a6192"
-       transform="rotate(90,2699.8852,1692.1148)">
+       transform="rotate(90,2601.8852,1690.1148)">
       <text
          x="1343"
          y="3280"
          id="text6190">Kubuntu</text>
     </a>
     <rect
-       x="642.22955"
-       y="-1014"
+       x="652.22955"
+       y="-952"
        width="39"
        height="14"
        fill="#ffffff"
@@ -12697,15 +12061,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/r/runtu"
        id="a6204"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2683.8852,1646.1148)">
       <text
          x="1692"
          y="3390"
          id="text6202">Runtu</text>
     </a>
     <rect
-       x="1000.2295"
-       y="-992"
+       x="1010.2295"
+       y="-930"
        width="55"
        height="14"
        fill="#ffffff"
@@ -12717,15 +12081,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/v/voyager"
        id="a6210"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2683.8852,1646.1148)">
       <text
          x="2050"
          y="3412"
          id="text6208">Voyager</text>
     </a>
     <rect
-       x="1352.2295"
-       y="-970"
+       x="1220.2295"
+       y="-908"
        width="70"
        height="14"
        fill="#ffffff"
@@ -12737,15 +12101,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/g/galliumos"
        id="a6216"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2754.8852,1575.1148)">
       <text
          x="2402"
          y="3434"
          id="text6214">GalliumOS</text>
     </a>
     <rect
-       x="633.22955"
-       y="-882"
+       x="643.22955"
+       y="-820"
        width="45"
        height="14"
        fill="#ffffff"
@@ -12757,15 +12121,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/b/black-lab"
        id="a6222"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2683.8852,1646.1148)">
       <text
          x="1683"
          y="3522"
          id="text6220">PC OS</text>
     </a>
     <rect
-       x="1017.2295"
-       y="-882"
+       x="1027.2295"
+       y="-820"
        width="28"
        height="14"
        fill="#ffffff"
@@ -12777,15 +12141,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/b/black-lab"
        id="a6228"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2683.8852,1646.1148)">
       <text
          x="2067"
          y="3522"
          id="text6226">OS4</text>
     </a>
     <rect
-       x="1273.2295"
-       y="-882"
+       x="1179.2295"
+       y="-820"
        width="66"
        height="14"
        fill="#ffffff"
@@ -12797,15 +12161,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/b/black-lab"
        id="a6234"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2735.8852,1594.1148)">
       <text
          x="2323"
          y="3522"
          id="text6232">Black Lab</text>
     </a>
     <rect
-       x="1208.2295"
-       y="-926"
+       x="1114.2295"
+       y="-864"
        width="71"
        height="14"
        fill="#ffffff"
@@ -12817,15 +12181,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/peacho-si"
        id="a6240"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2735.8852,1594.1148)">
       <text
          x="2258"
          y="3478"
          id="text6238">Peach OSI</text>
     </a>
     <rect
-       x="1000.2295"
-       y="-904"
+       x="1010.2295"
+       y="-842"
        width="50"
        height="14"
        fill="#ffffff"
@@ -12837,15 +12201,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/x/xinutop"
        id="a6246"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2683.8852,1646.1148)">
       <text
          x="2050"
          y="3500"
          id="text6244">Xinutop</text>
     </a>
     <rect
-       x="408.22955"
-       y="-948"
+       x="418.22955"
+       y="-886"
        width="55"
        height="14"
        fill="#ffffff"
@@ -12857,15 +12221,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/x/xubuntu"
        id="a6252"
-       transform="rotate(90,2719.8852,1672.1148)">
+       transform="rotate(90,2683.8852,1646.1148)">
       <text
          x="1458"
          y="3456"
          id="text6250">Xubuntu</text>
     </a>
     <rect
-       x="437.22955"
-       y="-860"
+       x="447.22955"
+       y="-798"
        width="36"
        height="14"
        fill="#ffffff"
@@ -12877,15 +12241,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/m/max"
        id="a6306"
-       transform="rotate(90,2775.8852,1682.1148)">
+       transform="rotate(90,2739.8852,1656.1148)">
       <text
          x="1533"
          y="3610"
          id="text6304">MAX</text>
     </a>
     <rect
-       x="456.22955"
-       y="-838"
+       x="466.22955"
+       y="-776"
        width="95"
        height="14"
        fill="#ffffff"
@@ -12897,15 +12261,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/u/ubuntu-studio"
        id="a6312"
-       transform="rotate(90,2775.8852,1682.1148)">
+       transform="rotate(90,2739.8852,1656.1148)">
       <text
          x="1552"
          y="3632"
          id="text6310">Ubuntu Studio</text>
     </a>
     <rect
-       x="554.22955"
-       y="-816"
+       x="514.22955"
+       y="-754"
        width="105"
        height="14"
        fill="#ffffff"
@@ -12917,35 +12281,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/u/ultimate-edition"
        id="a6366"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2819.8852,1686.1148)">
       <text
          x="1650"
          y="3764"
          id="text6364">Ultimate Edition</text>
     </a>
     <rect
-       x="579.22955"
-       y="-794"
-       width="57"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6368"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/m/moonos"
-       id="a6372"
-       transform="rotate(90,2830.8852,1737.1148)">
-      <text
-         x="1675"
-         y="3786"
-         id="text6370">MoonOS</text>
-    </a>
-    <rect
-       x="600.22955"
-       y="-772"
+       x="534.22955"
+       y="-710"
        width="33"
        height="14"
        fill="#ffffff"
@@ -12957,15 +12301,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/z/zentyal"
        id="a6378"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2832.8852,1673.1148)">
       <text
          x="1696"
          y="3808"
          id="text6376">eBox</text>
     </a>
     <rect
-       x="785.22955"
-       y="-772"
+       x="719.22955"
+       y="-710"
        width="48"
        height="14"
        fill="#ffffff"
@@ -12977,35 +12321,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/z/zentyal"
        id="a6384"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2832.8852,1673.1148)">
       <text
          x="1881"
          y="3808"
          id="text6382">Zentyal</text>
     </a>
     <rect
-       x="607.22955"
-       y="-750"
-       width="57"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6386"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/n/newtoos"
-       id="a6390"
-       transform="rotate(90,2830.8852,1737.1148)">
-      <text
-         x="1703"
-         y="3830"
-         id="text6388">Newtoos</text>
-    </a>
-    <rect
-       x="613.22955"
-       y="-728"
+       x="547.22955"
+       y="-666"
        width="50"
        height="14"
        fill="#ffffff"
@@ -13017,15 +12341,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/v/vibuntu"
        id="a6396"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2832.8852,1673.1148)">
       <text
          x="1709"
          y="3852"
          id="text6394">Vibuntu</text>
     </a>
     <rect
-       x="671.22955"
-       y="-728"
+       x="605.22955"
+       y="-666"
        width="44"
        height="14"
        fill="#ffffff"
@@ -13037,35 +12361,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/v/vibuntu"
        id="a6402"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2832.8852,1673.1148)">
       <text
          x="1767"
          y="3852"
          id="text6400">VINUX</text>
     </a>
     <rect
-       x="633.22955"
-       y="-706"
-       width="34"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6404"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/q/qimo"
-       id="a6408"
-       transform="rotate(90,2830.8852,1737.1148)">
-      <text
-         x="1729"
-         y="3874"
-         id="text6406">Qimo</text>
-    </a>
-    <rect
-       x="937.22961"
-       y="-684"
+       x="871.22961"
+       y="-622"
        width="80"
        height="14"
        fill="#ffffff"
@@ -13077,15 +12381,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/o/osgeo-live"
        id="a6414"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2832.8852,1673.1148)">
       <text
          x="2033"
          y="3896"
          id="text6412">OSGeo-Live</text>
     </a>
     <rect
-       x="751.22955"
-       y="-618"
+       x="685.22955"
+       y="-556"
        width="101"
        height="14"
        fill="#ffffff"
@@ -13097,15 +12401,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/peppermint-os"
        id="a6420"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2832.8852,1673.1148)">
       <text
          x="1847"
          y="3962"
          id="text6418">Peppermint OS</text>
     </a>
     <rect
-       x="1084.2295"
-       y="-640"
+       x="1018.2295"
+       y="-578"
        width="36"
        height="14"
        fill="#ffffff"
@@ -13117,15 +12421,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/l/lxle"
        id="a6426"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2832.8852,1673.1148)">
       <text
          x="2180"
          y="3940"
          id="text6424">LXLE</text>
     </a>
     <rect
-       x="649.22955"
-       y="-662"
+       x="583.22955"
+       y="-600"
        width="54"
        height="14"
        fill="#ffffff"
@@ -13137,15 +12441,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/l/lubuntu"
        id="a6432"
-       transform="rotate(90,2830.8852,1737.1148)">
+       transform="rotate(90,2832.8852,1673.1148)">
       <text
          x="1745"
          y="3918"
          id="text6430">Lubuntu</text>
     </a>
     <rect
-       x="789.22955"
-       y="-592"
+       x="651.22955"
+       y="-530"
        width="58"
        height="14"
        fill="#ffffff"
@@ -13157,15 +12461,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/b/backbox"
        id="a6468"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2910.8852,1679.1148)">
       <text
          x="1885"
          y="4072"
          id="text6466">BackBox</text>
     </a>
     <rect
-       x="792.22955"
-       y="-570"
+       x="654.22955"
+       y="-508"
        width="71"
        height="14"
        fill="#ffffff"
@@ -13177,15 +12481,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/pinguy-os"
        id="a6474"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2910.8852,1679.1148)">
       <text
          x="1888"
          y="4094"
          id="text6472">Pinguy OS</text>
     </a>
     <rect
-       x="845.22955"
-       y="-548"
+       x="707.22955"
+       y="-486"
        width="98"
        height="14"
        fill="#ffffff"
@@ -13197,55 +12501,15 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/e/elementary-os"
        id="a6480"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2910.8852,1679.1148)">
       <text
          x="1941"
          y="4116"
          id="text6478">elementary OS</text>
     </a>
     <rect
-       x="882.22955"
-       y="-526"
-       width="57"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6482"
-       transform="rotate(90)" />
-    <a
-       xlink:href="http://www.pearlinux.fr/"
-       id="a6486"
-       transform="rotate(90,2872.8852,1779.1148)">
-      <text
-         x="1978"
-         y="4138"
-         id="text6484">Pear OS</text>
-    </a>
-    <rect
-       x="915.22961"
-       y="-504"
-       width="79"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6488"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/descent-os"
-       id="a6492"
-       transform="rotate(90,2872.8852,1779.1148)">
-      <text
-         x="2011"
-         y="4160"
-         id="text6490">Descent OS</text>
-    </a>
-    <rect
-       x="968.22949"
-       y="-482"
+       x="830.22949"
+       y="-462"
        width="85"
        height="14"
        fill="#ffffff"
@@ -13257,34 +12521,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/u/ubuntu-pack"
        id="a6498"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2931.8852,1700.1148)">
       <text
          x="2064"
          y="4182"
          id="text6496">Ubuntu-Pack</text>
     </a>
     <rect
-       x="996.22949"
-       y="-460"
-       width="106"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6500"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/u/ubuntu-gnome"
-       id="a6504"
-       transform="rotate(90,2872.8852,1779.1148)">
-      <text
-         x="2092"
-         y="4204"
-         id="text6502">Ubuntu GNOME</text>
-    </a>
-    <rect
-       x="1052.2295"
+       x="914.22949"
        y="-438"
        width="85"
        height="14"
@@ -13297,14 +12541,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/u/ubuntu-kylin"
        id="a6510"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="2148"
          y="4226"
          id="text6508">Ubuntu Kylin</text>
     </a>
     <rect
-       x="1229.2295"
+       x="1021.2295"
        y="-416"
        width="92"
        height="14"
@@ -13317,14 +12561,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/u/ubuntu-mate"
        id="a6516"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2976.8852,1675.1148)">
       <text
          x="2325"
          y="4248"
          id="text6514">Ubuntu MATE</text>
     </a>
     <rect
-       x="1351.2295"
+       x="1093.2295"
        y="-394"
        width="70"
        height="14"
@@ -13337,14 +12581,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/k/kde-neon"
        id="a6522"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,3001.8852,1650.1148)">
       <text
          x="2447"
          y="4270"
          id="text6520">KDE Neon</text>
     </a>
     <rect
-       x="1469.2295"
+       x="1211.2295"
        y="-372"
        width="51"
        height="14"
@@ -13357,54 +12601,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/p/pop-os"
        id="a6528"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,3001.8852,1650.1148)">
       <text
          x="2565"
          y="4292"
          id="text6526">Pop OS</text>
     </a>
     <rect
-       x="1352.2295"
-       y="-328"
-       width="93"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6536"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/u/ubuntu-budgie"
-       id="a6540"
-       transform="rotate(90,2872.8852,1779.1148)">
-      <text
-         x="2448"
-         y="4336"
-         id="text6538">Budgie-Remix</text>
-    </a>
-    <rect
-       x="1453.2295"
-       y="-328"
-       width="99"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6542"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/u/ubuntu-budgie"
-       id="a6546"
-       transform="rotate(90,2872.8852,1779.1148)">
-      <text
-         x="2549"
-         y="4336"
-         id="text6544">Ubuntu Budgie</text>
-    </a>
-    <rect
-       x="1336.2295"
+       x="1078.2295"
        y="-306"
        width="83"
        height="14"
@@ -13417,14 +12621,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/s/snakeoil-os"
        id="a6552"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,3001.8852,1650.1148)">
       <text
          x="2432"
          y="4358"
          id="text6550">Snakeoil OS</text>
     </a>
     <rect
-       x="1100.2295"
+       x="962.22949"
        y="-284"
        width="93"
        height="14"
@@ -13437,14 +12641,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/u/ubuntu-touch"
        id="a6558"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="2196"
          y="4380"
          id="text6556">Ubuntu Touch</text>
     </a>
     <rect
-       x="1002.2295"
+       x="864.22949"
        y="-262"
        width="65"
        height="14"
@@ -13457,14 +12661,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/l/linux-lite"
        id="a6564"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="2098"
          y="4402"
          id="text6562">Linux Lite</text>
     </a>
     <rect
-       x="977.22949"
+       x="839.22949"
        y="-240"
        width="54"
        height="14"
@@ -13477,14 +12681,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/s/santoku"
        id="a6570"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="2073"
          y="4424"
          id="text6568">Santoku</text>
     </a>
     <rect
-       x="936.22961"
+       x="798.22961"
        y="-218"
        width="52"
        height="14"
@@ -13497,14 +12701,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/w/whonix"
        id="a6576"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="2032"
          y="4446"
          id="text6574">TorBOX</text>
     </a>
     <rect
-       x="996.22949"
+       x="858.22949"
        y="-218"
        width="49"
        height="14"
@@ -13517,14 +12721,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/w/whonix"
        id="a6582"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="2092"
          y="4446"
          id="text6580">Whonix</text>
     </a>
     <rect
-       x="910.22955"
+       x="772.22955"
        y="-196"
        width="49"
        height="14"
@@ -13537,14 +12741,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/l/linkat"
        id="a6588"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="2006"
          y="4468"
          id="text6586">Linkat</text>
     </a>
     <rect
-       x="854.22955"
+       x="716.22955"
        y="-174"
        width="79"
        height="14"
@@ -13557,14 +12761,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/l/luninux-os"
        id="a6594"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="1950"
          y="4490"
          id="text6592">Sn0wL1nuX</text>
     </a>
     <rect
-       x="941.22949"
+       x="803.22949"
        y="-174"
        width="80"
        height="14"
@@ -13577,14 +12781,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/l/luninux-os"
        id="a6600"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="2037"
          y="4490"
          id="text6598">LuninuX OS</text>
     </a>
     <rect
-       x="808.22955"
+       x="670.22955"
        y="-152"
        width="38"
        height="14"
@@ -13597,54 +12801,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/b/bodhi"
        id="a6606"
-       transform="rotate(90,2872.8852,1779.1148)">
+       transform="rotate(90,2941.8852,1710.1148)">
       <text
          x="1904"
          y="4512"
          id="text6604">Bodhi</text>
     </a>
     <rect
-       x="629.22955"
-       y="-140"
-       width="19"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6650"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/a/av-linux"
-       id="a6654"
-       transform="rotate(90,2954.8852,1861.1148)">
-      <text
-         x="1725"
-         y="4688"
-         id="text6652">AV</text>
-    </a>
-    <rect
-       x="656.22955"
-       y="-140"
-       width="60"
-       height="14"
-       fill="#ffffff"
-       opacity="0.6"
-       rx="5"
-       ry="5"
-       id="rect6656"
-       transform="rotate(90)" />
-    <a
-       xlink:href="https://distroware.gitlab.io/os/Linux/a/av-linux"
-       id="a6660"
-       transform="rotate(90,2954.8852,1861.1148)">
-      <text
-         x="1752"
-         y="4688"
-         id="text6658">AV Linux</text>
-    </a>
-    <rect
-       x="602.22955"
+       x="536.22955"
        y="-112"
        width="44"
        height="14"
@@ -13657,14 +12821,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/c/caine-live"
        id="a6678"
-       transform="rotate(90,2962.8852,1869.1148)">
+       transform="rotate(90,2995.8852,1836.1148)">
       <text
          x="1698"
          y="4732"
          id="text6676">CAINE</text>
     </a>
     <rect
-       x="596.22955"
+       x="530.22955"
        y="-90"
        width="59"
        height="14"
@@ -13677,14 +12841,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/z/zorin-os"
        id="a6684"
-       transform="rotate(90,2962.8852,1869.1148)">
+       transform="rotate(90,2995.8852,1836.1148)">
       <text
          x="1692"
          y="4754"
          id="text6682">Zorin OS</text>
     </a>
     <rect
-       x="1232.2295"
+       x="1142.2295"
        y="-36"
        width="148"
        height="14"
@@ -13697,14 +12861,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/c/crunchbang++"
        id="a6714"
-       transform="rotate(90,2990.8852,1897.1148)">
+       transform="rotate(90,3035.8852,1852.1148)">
       <text
          x="2328"
          y="4864"
          id="text6712">CrunchBang plus plus</text>
     </a>
     <rect
-       x="526.22955"
+       x="460.22955"
        y="-58"
        width="83"
        height="14"
@@ -13717,14 +12881,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/c/crunchbang"
        id="a6720"
-       transform="rotate(90,2990.8852,1897.1148)">
+       transform="rotate(90,3023.8852,1864.1148)">
       <text
          x="1622"
          y="4842"
          id="text6718">CrunchBang</text>
     </a>
     <rect
-       x="1231.2295"
+       x="1141.2295"
        y="-58"
        width="87"
        height="14"
@@ -13737,14 +12901,14 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/b/bunsen-labs"
        id="a6726"
-       transform="rotate(90,2990.8852,1897.1148)">
+       transform="rotate(90,3035.8852,1852.1148)">
       <text
          x="2327"
          y="4842"
          id="text6724">Bunsen Labs</text>
     </a>
     <rect
-       x="490.22955"
+       x="424.22955"
        y="-24"
        width="53"
        height="14"
@@ -13757,7 +12921,7 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/g/greenie"
        id="a6738"
-       transform="rotate(90,3006.8852,1913.1148)">
+       transform="rotate(90,3039.8852,1880.1148)">
       <text
          x="1586"
          y="4908"
@@ -13785,7 +12949,7 @@
     </a>
     <rect
        x="42.229549"
-       y="-1760"
+       y="-1456"
        width="47"
        height="14"
        fill="#ffffff"
@@ -13797,7 +12961,7 @@
     <a
        xlink:href="https://distroware.gitlab.io/os/Linux/d/debian"
        id="a7116"
-       transform="rotate(90,2108.3852,1973.6148)">
+       transform="rotate(90,1956.3852,1821.6148)">
       <text
          x="179"
          y="2334"
@@ -14046,64 +13210,6 @@
            d="m 309.954,338.729 c 7.147,-6.77 29.691,-25.348 59.588,-6.328 6.299,3.766 12.804,7.865 22.478,13.464 19.162,11.748 9.671,28.678 -13.286,39.39 -10.418,4.495 -27.593,14.415 -40.671,13.721 -14.533,-1.408 -23.935,-11.399 -33.567,-17.906 -17.67,-12.303 -16.597,-22.237 -8.389,-30.508 6.205,-5.679 13.183,-11.204 13.847,-11.833 z"
            id="path123"
            transform="matrix(0.627885,0,0,0.595666,392.366,51.8173)" />
-      </g>
-    </g>
-    <g
-       transform="translate(625.206,10.480533)"
-       id="g9408">
-      <g
-         id="connector_legend">
-        <g
-           id="g9387">
-          <rect
-             style="fill:#ffffff;fill-opacity:0.7;fill-rule:nonzero;stroke:#6fb3f2;stroke-width:2"
-             width="359"
-             height="69"
-             x="2"
-             y="2"
-             rx="9"
-             ry="9"
-             id="rect9385" />
-        </g>
-        <g
-           id="g9395">
-          <line
-             x1="20"
-             y1="22"
-             x2="64"
-             y2="22"
-             style="opacity:0.6;stroke:#0000ff;stroke-width:1;stroke-dasharray:1, 1"
-             id="line9389" />
-          <line
-             x1="20"
-             y1="37"
-             x2="64"
-             y2="37"
-             style="opacity:0.6;stroke:#0000ff;stroke-width:2;stroke-dasharray:2, 2"
-             id="line9391" />
-          <line
-             x1="20"
-             y1="52"
-             x2="64"
-             y2="52"
-             style="opacity:0.6;stroke:#0000ff;stroke-width:4;stroke-dasharray:4, 4"
-             id="line9393" />
-        </g>
-        <g
-           style="font-size:12px;font-family:'Liberation Sans', Arial, Helvetica;-inkscape-font-specification:'Liberation Sans, Arial, Helvetica';fill:#000000;stroke:none"
-           id="g9405">
-          <text
-             id="text9403"><tspan
-               x="73"
-               y="25.700001"
-               id="tspan9397">Influence, developer switching</tspan><tspan
-               x="73"
-               y="40.700001"
-               id="tspan9399">Rebasing, substantial code flow, project overtaking</tspan><tspan
-               x="73"
-               y="55.700001"
-               id="tspan9401">Developer &amp; code sharing, project merging</tspan></text>
-        </g>
       </g>
     </g>
   </g>
