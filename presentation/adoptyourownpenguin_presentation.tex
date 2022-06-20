@@ -30,6 +30,12 @@
 \date{\today}
 \titlegraphic{\mascot}
 
+\newsavebox\mascotbox
+
+\begin{lrbox}\mascotbox
+	\includegraphics[height=3cm]{\mascot}%
+\end{lrbox}
+
 \definecolor{background-local}{named}{background}
 %\definecolor{Gray-local}{HTML}{858b8f}
 %\definecolor{text-local}{HTML}{4F5D66}
@@ -45,7 +51,7 @@
 \DarkBG%
 \begin{frame}[plain]%
 \section{#1}\centering\Huge\color{background-local}\textbf{#1}%
-\vfill\includegraphics[height=3cm]{\mascot}%
+\vfill\usebox\mascotbox%
 \end{frame}%
 \ResetBG%
 }
