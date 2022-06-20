@@ -1,3 +1,3 @@
-[submodule "presentation/flux-beamer"]
+[submodule "lux-beamer-theme"]
 	path = flux-beamer-theme
 	url = git@github.com:pvanberg/flux-beamer.git
