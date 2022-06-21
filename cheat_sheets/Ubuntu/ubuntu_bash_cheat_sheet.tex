@@ -1,4 +1,4 @@
-\documentclass[a4paper, 17pt]{beamer}
+\documentclass[a4paper, 20pt]{beamer}
 
 \usepackage[sfdefault]{roboto}
 \usepackage[english]{babel}
@@ -7,7 +7,7 @@
 \usepackage{colortbl}
 \usepackage{ragged2e}
 \usepackage{schemabloc}
-\usepackage[orientation=portrait]{beamerposter}
+\usepackage[orientation=portrait, scale=1.03]{beamerposter}
 
 % Define where theme files are located. ('/styles')
 \usepackage{../../flux-beamer-theme/styles/fluxmacros}
@@ -34,17 +34,20 @@
 
 \setbeamertemplate{title page}
 {
+\vfill
 \begin{columns}
-	\begin{column}{.3\linewidth}
-		\centering\includegraphics[height=3\baselineskip]{../../graphics/logos/Ubuntu/ubuntu-logo-2022.png}
+	\begin{column}[c]{.25\linewidth}
+		\begin{flushright}
+			\includegraphics[height=4\baselineskip]{../../graphics/logos/Ubuntu/ubuntu-logo-2022.png}
+		\end{flushright}
 	\end{column}
 	\hfill
-	\begin{column}{.3\linewidth}
+	\begin{column}[c]{.4\linewidth}
 		\centering\color{primaryLight}\Huge\textbf{\inserttitle}
 	\end{column}
 	\hfill
-	\begin{column}{.3\linewidth}
-		\centering\includegraphics[height=3\baselineskip]{\mascot}
+	\begin{column}[c]{.25\linewidth}
+		\centering\includegraphics[height=4\baselineskip]{\mascot}
 	\end{column}
 \end{columns}
 \begin{center}
@@ -133,20 +136,21 @@
 				\include{blocks/general}%
 				\include{blocks/system}%
 				\include{blocks/hardware}%
-				\include{blocks/priviliges}%
 				\include{blocks/package}%
 				\include{blocks/directory}%
 				\include{blocks/file}%
-				\include{blocks/search}%
+				\include{blocks/user}%
+				\include{blocks/variables}%
 			\end{column}
 			\begin{column}[t]{0.5\linewidth}
+				\include{blocks/priviliges}%
+				\include{blocks/file_perm}%
+				\include{blocks/search}%
 				\include{blocks/sevices}%
 				\include{blocks/process}%
 				\include{blocks/network}%
-				\include{blocks/ssh}%
 				\include{blocks/firewall}%
-				\include{blocks/file_perm}%
-				\include{blocks/variables}%
+				\include{blocks/ssh}%
 				\include{blocks/shortcuts}%
 			\end{column}
 		\end{columns}
